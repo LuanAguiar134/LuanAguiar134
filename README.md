@@ -2,22 +2,6 @@
 
 **`Desenvolvedor FullStack`**
 Me chamo Luan Aguiar Martins, tenho 23 anos e sou natural de Fortaleza ceará. Estou me graduando na Faculdade Unifametro , como tecnologo em Analise e desenvolvimento de sistemas. Atualmente. Sou apaixonado por tecnologia e estou sempre buscando conhecimento para melhorar como programador e sempre adentro de tecnologias e da mudança constante da Inteligencia Artificial.
-    </a> 
-    <a href="https://github.com/LuanAguiar134/LuanAguiar134">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
