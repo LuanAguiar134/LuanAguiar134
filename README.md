@@ -1,7 +1,7 @@
 # 👩🏻‍💻 LUAN AGUIAR
 
 **`Desenvolvedor FullStack`**
-Me chamo Luan Aguiar Martins, tenho 23 anos e sou natural de Fortaleza ceará. Estou me graduando na Faculdade Unifametro , como tecnologo em Analise e desenvolvimento de sistemas. Atualmente. Sou apaixonado por tecnologia e estou sempre buscando conhecimento para melhorar como programador e sempre adentro de tecnologias e da mudança constante da Inteligencia Artificial.
+Me chamo Luan Aguiar Martins, tenho 23 anos e sou natural de Fortaleza ceará. Estou me graduando na Faculdade Unifametro , como tecnologo em Analise e desenvolvimento de sistemas. Atualmente. Sou apaixonado por tecnologia e estou sempre buscando conhecimento para melhorar como programador e sempre adentro de tecnologias e da mudança constante da Inteligencia Artificial, me siga no instagram para saber mais sobre mim "[Luan Aguiar](https://www.instagram.com/l.agguiarx?utm_source=qr&igsh=a3NyNnM4d3I5NWVy)".
 
 ---
 
