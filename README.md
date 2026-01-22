@@ -2,6 +2,9 @@
   <a href="https://github.com/LuanAguiar134">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Luan Aguiar" /></a>
 </p>
+<p align="center">
+  <h3 align="center">⌨️ Seja bem vindo ao meu perfil do GIT</h3>
+</p>
 
 # 👩🏻‍💻 LUAN AGUIAR
 
